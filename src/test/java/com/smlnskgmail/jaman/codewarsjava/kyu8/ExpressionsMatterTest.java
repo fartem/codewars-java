@@ -2,9 +2,7 @@ package com.smlnskgmail.jaman.codewarsjava.kyu8;
 
 import org.junit.Test;
 
-import javax.naming.ldap.ExtendedRequest;
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class ExpressionsMatterTest {
 
