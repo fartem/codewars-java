@@ -18,7 +18,7 @@ public class SantasNaughtyList {
         this.children.addAll(children);
     }
 
-    List<String> result() {
+    List<String> solution() {
         return children.stream()
                 .filter(kid -> {
                     String nameWithCasedLetter = kid.substring(0, 1).toUpperCase() + kid.substring(1);

@@ -12,8 +12,9 @@ public class ReversedSequence {
         this.n = n;
     }
 
-    public int[] result() {
-        return IntStream.rangeClosed(1, n)
+    public int[] solution() {
+        return IntStream
+                .rangeClosed(1, n)
                 .boxed()
                 .sorted(Collections.reverseOrder())
                 .mapToInt(Integer::valueOf)

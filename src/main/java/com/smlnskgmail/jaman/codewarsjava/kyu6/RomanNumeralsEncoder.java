@@ -31,16 +31,16 @@ public class RomanNumeralsEncoder {
         this.input = input;
     }
 
-    public String result() {
-        return solution(input);
+    public String solution() {
+        return getRomanNumber(input);
     }
 
-    private String solution(int n) {
+    private String getRomanNumber(int n) {
         int value = romanNumerals.floorKey(n);
         if (n == value) {
             return romanNumerals.get(n);
         }
-        return romanNumerals.get(value) + solution(n - value);
+        return romanNumerals.get(value) + getRomanNumber(n - value);
     }
 
 }

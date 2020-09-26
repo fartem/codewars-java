@@ -13,8 +13,9 @@ public class SortMyTextbooks {
         this.textbooks.addAll(textbooks);
     }
 
-    public List<String> result() {
-        return textbooks.stream()
+    public List<String> solution() {
+        return textbooks
+                .stream()
                 .sorted(String::compareToIgnoreCase)
                 .collect(Collectors.toList());
     }

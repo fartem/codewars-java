@@ -12,7 +12,7 @@ public class FormTheMinimum {
         this.input = input;
     }
 
-    public int result() {
+    public int solution() {
         return Integer.parseInt(
                 IntStream.of(input)
                         .distinct()

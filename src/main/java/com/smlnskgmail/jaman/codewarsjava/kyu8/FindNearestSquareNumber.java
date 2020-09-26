@@ -9,7 +9,7 @@ public class FindNearestSquareNumber {
         this.number = number;
     }
 
-    public int result() {
+    public int solution() {
         return (int) Math.pow(
                 Math.round(Math.sqrt(number)),
                 2

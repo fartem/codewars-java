@@ -9,7 +9,7 @@ public class SumsOfParts {
         this.input = input;
     }
 
-    public int[] result() {
+    public int[] solution() {
         int[] result = new int[input.length + 1];
         int counter = 0;
         for (int i = input.length - 1; i >= 0; i--) {

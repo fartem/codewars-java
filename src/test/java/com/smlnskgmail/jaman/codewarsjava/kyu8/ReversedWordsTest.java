@@ -10,15 +10,15 @@ public class ReversedWordsTest {
     public void testSomething() {
         assertEquals(
                 "eating like I",
-                new ReversedWords("I like eating").result()
+                new ReversedWords("I like eating").solution()
         );
         assertEquals(
                 "flying like I",
-                new ReversedWords("I like flying").result()
+                new ReversedWords("I like flying").solution()
         );
         assertEquals(
                 "nice is world The",
-                new ReversedWords("The world is nice").result()
+                new ReversedWords("The world is nice").solution()
         );
     }
 

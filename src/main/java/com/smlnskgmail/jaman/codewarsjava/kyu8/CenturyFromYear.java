@@ -9,7 +9,7 @@ public class CenturyFromYear {
         this.year = year;
     }
 
-    public int result() {
+    public int solution() {
         return (year + 99) / 100;
     }
 

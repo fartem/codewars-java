@@ -32,7 +32,7 @@ public class SortMyTextbooksTest {
 
         assertEquals(
                 sorted,
-                new SortMyTextbooks(strs).result()
+                new SortMyTextbooks(strs).solution()
         );
     }
 
@@ -58,7 +58,7 @@ public class SortMyTextbooksTest {
 
         assertEquals(
                 sorted,
-                new SortMyTextbooks(strs).result()
+                new SortMyTextbooks(strs).solution()
         );
     }
 
@@ -84,7 +84,7 @@ public class SortMyTextbooksTest {
 
         assertEquals(
                 sorted,
-                new SortMyTextbooks(strs).result()
+                new SortMyTextbooks(strs).solution()
         );
     }
 

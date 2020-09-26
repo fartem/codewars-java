@@ -13,7 +13,7 @@ public class ExpressionsMatter {
         this.c = c;
     }
 
-    public int result() {
+    public int solution() {
         return Math.max(
                 Math.max(
                         a + b + c,

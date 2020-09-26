@@ -10,15 +10,15 @@ public class TwiceAsOldTest {
     public void testSomething() {
         assertEquals(
                 30,
-                new TwiceAsOld(30, 0).result()
+                new TwiceAsOld(30, 0).solution()
         );
         assertEquals(
                 16,
-                new TwiceAsOld(30, 7).result()
+                new TwiceAsOld(30, 7).solution()
         );
         assertEquals(
                 15,
-                new TwiceAsOld(45, 30).result()
+                new TwiceAsOld(45, 30).solution()
         );
     }
 

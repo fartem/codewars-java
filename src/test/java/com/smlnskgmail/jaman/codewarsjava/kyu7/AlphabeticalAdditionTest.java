@@ -10,31 +10,31 @@ public class AlphabeticalAdditionTest {
     public void fixedTests() {
         assertEquals(
                 "f",
-                new AlphabeticalAddition("a", "b", "c").result()
+                new AlphabeticalAddition("a", "b", "c").solution()
         );
         assertEquals(
                 "z",
-                new AlphabeticalAddition("z").result()
+                new AlphabeticalAddition("z").solution()
         );
         assertEquals(
                 "c",
-                new AlphabeticalAddition("a", "b").result()
+                new AlphabeticalAddition("a", "b").solution()
         );
         assertEquals(
                 "c",
-                new AlphabeticalAddition("c").result()
+                new AlphabeticalAddition("c").solution()
         );
         assertEquals(
                 "a",
-                new AlphabeticalAddition("z", "a").result()
+                new AlphabeticalAddition("z", "a").solution()
         );
         assertEquals(
                 "d",
-                new AlphabeticalAddition("y", "c", "b").result()
+                new AlphabeticalAddition("y", "c", "b").solution()
         );
         assertEquals(
                 "z",
-                new AlphabeticalAddition().result()
+                new AlphabeticalAddition().solution()
         );
     }
 

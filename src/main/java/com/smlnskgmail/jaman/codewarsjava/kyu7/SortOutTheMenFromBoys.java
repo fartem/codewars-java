@@ -11,7 +11,7 @@ public class SortOutTheMenFromBoys {
         this.input = input;
     }
 
-    public int[] result() {
+    public int[] solution() {
         int[] boys = Arrays
                 .stream(input)
                 .distinct()

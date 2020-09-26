@@ -10,23 +10,23 @@ public class CenturyFromYearTest {
     public void FixedTests() {
         assertEquals(
                 18,
-                new CenturyFromYear(1705).result()
+                new CenturyFromYear(1705).solution()
         );
         assertEquals(
                 19,
-                new CenturyFromYear(1900).result()
+                new CenturyFromYear(1900).solution()
         );
         assertEquals(
                 17,
-                new CenturyFromYear(1601).result()
+                new CenturyFromYear(1601).solution()
         );
         assertEquals(
                 20,
-                new CenturyFromYear(2000).result()
+                new CenturyFromYear(2000).solution()
         );
         assertEquals(
                 1,
-                new CenturyFromYear(89).result()
+                new CenturyFromYear(89).solution()
         );
     }
 

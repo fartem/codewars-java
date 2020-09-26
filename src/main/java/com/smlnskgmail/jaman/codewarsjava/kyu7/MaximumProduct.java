@@ -9,7 +9,7 @@ public class MaximumProduct {
         this.array = array;
     }
 
-    public int result() {
+    public int solution() {
         int maximumProduct = Integer.MIN_VALUE;
         for (int i = 0; i < array.length - 1; i++) {
             int product = array[i] * array[i + 1];

@@ -18,7 +18,7 @@ public class LunarMathematicsAddition {
         this.secondNumber = secondNumber;
     }
 
-    public long result() {
+    public long solution() {
         String maximumValue = String.valueOf(
                 Math.max(firstNumber, secondNumber)
         );

@@ -14,7 +14,7 @@ public class SimpleStringIndices {
         this.indexOfStart = indexOfStart;
     }
 
-    public int result() {
+    public int solution() {
         int openBrackets = 0;
         if (!(input.charAt(indexOfStart)== '(')) {
             return -1;

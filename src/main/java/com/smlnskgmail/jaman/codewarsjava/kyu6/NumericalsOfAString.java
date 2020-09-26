@@ -14,7 +14,7 @@ public class NumericalsOfAString {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         Map<String, Integer> symbols = new HashMap<>();
         return Arrays
                 .stream(input.split("")).map(s -> {

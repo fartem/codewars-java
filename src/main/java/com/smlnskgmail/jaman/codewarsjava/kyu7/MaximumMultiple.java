@@ -13,7 +13,7 @@ public class MaximumMultiple {
         this.bound = bound;
     }
 
-    public int result() {
+    public int solution() {
         return bound / divisor * divisor;
     }
 

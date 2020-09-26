@@ -9,7 +9,7 @@ public class HowManyArguments {
         this.input = input;
     }
 
-    public int result() {
+    public int solution() {
         return input.length;
     }
 

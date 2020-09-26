@@ -10,23 +10,23 @@ public class FormTheMinimumTest {
     public void testSomething() {
         assertEquals(
                 13,
-                new FormTheMinimum(new int[] { 1, 3, 1 }).result()
+                new FormTheMinimum(new int[] { 1, 3, 1 }).solution()
         );
         assertEquals(
                 457,
-                new FormTheMinimum(new int[] { 4, 7, 5, 7 }).result()
+                new FormTheMinimum(new int[] { 4, 7, 5, 7 }).solution()
         );
         assertEquals(
                 148,
-                new FormTheMinimum(new int[] { 4, 8, 1, 4 }).result()
+                new FormTheMinimum(new int[] { 4, 8, 1, 4 }).solution()
         );
         assertEquals(
                 579,
-                new FormTheMinimum(new int[] { 5, 7, 9, 5, 7 }).result()
+                new FormTheMinimum(new int[] { 5, 7, 9, 5, 7 }).solution()
         );
         assertEquals(
                 678,
-                new FormTheMinimum(new int[] { 6, 7, 8, 7, 6, 6 }).result()
+                new FormTheMinimum(new int[] { 6, 7, 8, 7, 6, 6 }).solution()
         );
     }
 

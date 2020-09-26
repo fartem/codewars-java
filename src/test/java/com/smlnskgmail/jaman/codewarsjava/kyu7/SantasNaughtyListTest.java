@@ -32,7 +32,7 @@ public class SantasNaughtyListTest {
 
         assertEquals(
                 goodChildren,
-                new SantasNaughtyList(santasList, children).result()
+                new SantasNaughtyList(santasList, children).solution()
         );
     }
 
@@ -58,7 +58,7 @@ public class SantasNaughtyListTest {
 
         assertEquals(
                 goodChildren,
-                new SantasNaughtyList(santasList, children).result()
+                new SantasNaughtyList(santasList, children).solution()
         );
     }
 
@@ -84,7 +84,7 @@ public class SantasNaughtyListTest {
 
         assertEquals(
                 goodChildren,
-                new SantasNaughtyList(santasList, children).result()
+                new SantasNaughtyList(santasList, children).solution()
         );
     }
 

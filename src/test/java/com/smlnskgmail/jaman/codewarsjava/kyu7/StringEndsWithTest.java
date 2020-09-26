@@ -9,7 +9,7 @@ public class StringEndsWithTest {
     @Test
     public void basicTest() {
         assertTrue(
-                new StringEndsWith("test", "t").result()
+                new StringEndsWith("test", "t").solution()
         );
     }
 

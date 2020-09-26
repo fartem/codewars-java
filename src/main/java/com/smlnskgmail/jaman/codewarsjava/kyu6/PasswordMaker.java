@@ -28,7 +28,7 @@ public class PasswordMaker {
         this.digits = digits;
     }
 
-    public String result() {
+    public String solution() {
         if (length == 0) {
             return "";
         }

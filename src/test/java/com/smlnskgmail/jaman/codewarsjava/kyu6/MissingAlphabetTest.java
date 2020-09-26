@@ -10,7 +10,7 @@ public class MissingAlphabetTest {
     public void basicTest() {
         assertEquals(
                 "hIJKMNPQRSTUVWXYZeFGIJKMNPQRSTUVWXYZlMNPQRSTUVWXYZloPQRSTUVWXYZ",
-                new MissingAlphabet("hello").result()
+                new MissingAlphabet("hello").solution()
         );
     }
 

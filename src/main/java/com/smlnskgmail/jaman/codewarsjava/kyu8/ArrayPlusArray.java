@@ -13,7 +13,7 @@ public class ArrayPlusArray {
         this.secondArray = secondArray;
     }
 
-    public int result() {
+    public int solution() {
         return Arrays.stream(firstArray).sum() + Arrays.stream(secondArray).sum();
     }
 

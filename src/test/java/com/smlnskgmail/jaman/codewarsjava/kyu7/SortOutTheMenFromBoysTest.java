@@ -33,7 +33,7 @@ public class SortOutTheMenFromBoysTest {
     }
 
     void doTest(final int[] values, final int[] expected) {
-        int[] actual = new SortOutTheMenFromBoys(values).result();
+        int[] actual = new SortOutTheMenFromBoys(values).solution();
         assertArrayEquals(
                 String.format(
                         "Expected %s\nReceived %s\n",

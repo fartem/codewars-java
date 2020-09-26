@@ -14,7 +14,7 @@ public class MissingAlphabet {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         List<String> parsedInput = Arrays
                 .stream(input.split(""))
                 .collect(Collectors.toList());

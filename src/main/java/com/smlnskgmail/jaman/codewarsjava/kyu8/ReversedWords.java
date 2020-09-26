@@ -12,7 +12,7 @@ public class ReversedWords {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         List<String> words = Arrays.asList(input.split(" "));
         Collections.reverse(words);
         return String.join(" ", words);

@@ -10,23 +10,23 @@ public class FindNearestSquareNumberTest {
     public void basicTests() {
         assertEquals(
                 1,
-                new FindNearestSquareNumber(1).result()
+                new FindNearestSquareNumber(1).solution()
         );
         assertEquals(
                 1,
-                new FindNearestSquareNumber(2).result()
+                new FindNearestSquareNumber(2).solution()
         );
         assertEquals(
                 9,
-                new FindNearestSquareNumber(10).result()
+                new FindNearestSquareNumber(10).solution()
         );
         assertEquals(
                 121,
-                new FindNearestSquareNumber(111).result()
+                new FindNearestSquareNumber(111).solution()
         );
         assertEquals(
                 10000,
-                new FindNearestSquareNumber(9999).result()
+                new FindNearestSquareNumber(9999).solution()
         );
     }
 

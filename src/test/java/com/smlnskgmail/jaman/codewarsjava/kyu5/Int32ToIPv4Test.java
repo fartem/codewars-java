@@ -10,15 +10,15 @@ public class Int32ToIPv4Test {
     public void sampleTest() {
         assertEquals(
                 "128.114.17.104",
-                new Int32ToIPv4(2154959208L).result()
+                new Int32ToIPv4(2154959208L).solution()
         );
         assertEquals(
                 "0.0.0.0",
-                new Int32ToIPv4(0).result()
+                new Int32ToIPv4(0).solution()
         );
         assertEquals(
                 "128.32.10.1",
-                new Int32ToIPv4(2149583361L).result()
+                new Int32ToIPv4(2149583361L).solution()
         );
     }
 

@@ -13,7 +13,7 @@ public class FindAllPairs {
         this.input = input;
     }
 
-    public int result() {
+    public int solution() {
         int count = 0;
         Map<Integer, Integer> valuesWithCount = new HashMap<>();
         IntStream.of(input)

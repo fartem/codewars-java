@@ -9,7 +9,7 @@ public class AlphabeticalAddition {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         int sum = String
                 .join("", input)
                 .chars()

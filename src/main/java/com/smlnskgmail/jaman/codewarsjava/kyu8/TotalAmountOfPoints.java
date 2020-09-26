@@ -11,7 +11,7 @@ public class TotalAmountOfPoints {
         this.input = input;
     }
 
-    public int result() {
+    public int solution() {
         return Arrays.stream(input).mapToInt(value -> {
             int x = value.charAt(0);
             int y = value.charAt(2);

@@ -11,7 +11,7 @@ public class RowWeights {
         this.weights = weights;
     }
 
-    public int[] result() {
+    public int[] solution() {
         int firstTeamScores = IntStream
                 .range(0, weights.length)
                 .filter(i -> i % 2 == 0)

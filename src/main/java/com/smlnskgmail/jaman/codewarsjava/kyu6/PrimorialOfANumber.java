@@ -11,7 +11,7 @@ public class PrimorialOfANumber {
         this.number = number;
     }
 
-    public String result() {
+    public String solution() {
         BigInteger result = new BigInteger("1");
         for (int i = 0, j = 0; i < number;) {
             if (isPrimeNumber(j)) {

@@ -12,7 +12,7 @@ public class Int32ToIPv4 {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         try {
             return InetAddress.getByName(String.valueOf(input)).getHostAddress();
         } catch (UnknownHostException e) {

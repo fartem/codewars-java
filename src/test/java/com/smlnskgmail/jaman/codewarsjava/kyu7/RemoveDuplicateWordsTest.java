@@ -12,13 +12,13 @@ public class RemoveDuplicateWordsTest {
                 "alpha beta gamma delta",
                 new RemoveDuplicateWords(
                         "alpha beta beta gamma gamma gamma delta alpha beta beta gamma gamma gamma delta"
-                ).result()
+                ).solution()
         );
         assertEquals(
                 "my cat is fat",
                 new RemoveDuplicateWords(
                         "my cat is my cat fat"
-                ).result()
+                ).solution()
         );
     }
 

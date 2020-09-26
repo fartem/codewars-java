@@ -12,7 +12,7 @@ public class FormTheLargest {
         this.maxNumber = maxNumber;
     }
 
-    public long result() {
+    public long solution() {
         return Long.parseLong(
                 Arrays.stream(
                         String.valueOf(maxNumber).split("")

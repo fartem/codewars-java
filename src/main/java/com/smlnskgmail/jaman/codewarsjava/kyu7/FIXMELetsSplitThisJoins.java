@@ -9,7 +9,7 @@ public class FIXMELetsSplitThisJoins {
         this.joins = joins;
     }
 
-    public String[] result() {
+    public String[] solution() {
         return joins.isEmpty()
                 ? new String[0]
                 : joins.split("\\.", -1);

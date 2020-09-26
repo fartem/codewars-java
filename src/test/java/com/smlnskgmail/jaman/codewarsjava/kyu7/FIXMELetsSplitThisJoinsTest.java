@@ -12,7 +12,7 @@ public class FIXMELetsSplitThisJoinsTest {
     public void example() {
         assertEquals(
                 new String[] {"a", "b", "c"},
-                show(new FIXMELetsSplitThisJoins("a.b.c").result())
+                show(new FIXMELetsSplitThisJoins("a.b.c").solution())
         );
     }
 

@@ -11,7 +11,7 @@ public class StringEndsWith {
         this.ending = ending;
     }
 
-    public boolean result() {
+    public boolean solution() {
         return input.endsWith(ending);
     }
 

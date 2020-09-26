@@ -12,7 +12,7 @@ public class RemoveDuplicateWords {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         return String.join(
                 " ",
                 new LinkedHashSet<>(

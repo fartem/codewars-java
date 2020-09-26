@@ -11,7 +11,7 @@ public class TwiceAsOld {
         this.sonYears = sonYears;
     }
 
-    public int result() {
+    public int solution() {
         return Math.abs(dadYears - sonYears * 2);
     }
 

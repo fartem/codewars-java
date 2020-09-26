@@ -10,23 +10,23 @@ public class FixStringCaseTest {
     public void BasicTests() {
         assertEquals(
                 "code",
-                new FixStringCase("code").result()
+                new FixStringCase("code").solution()
         );
         assertEquals(
                 "CODE",
-                new FixStringCase("CODe").result()
+                new FixStringCase("CODe").solution()
         );
         assertEquals(
                 "code",
-                new FixStringCase("COde").result()
+                new FixStringCase("COde").solution()
         );
         assertEquals(
                 "code",
-                new FixStringCase("Code").result()
+                new FixStringCase("Code").solution()
         );
         assertEquals(
                 "",
-                new FixStringCase("").result()
+                new FixStringCase("").solution()
         );
     }
 

@@ -11,7 +11,7 @@ public class FixStringCase {
         this.input = input;
     }
 
-    public String result() {
+    public String solution() {
         if (input.isEmpty()) {
             return input;
         }

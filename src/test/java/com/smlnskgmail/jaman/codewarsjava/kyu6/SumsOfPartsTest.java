@@ -27,7 +27,7 @@ public class SumsOfPartsTest {
     }
 
     private static void doTest(int[] ls, int[] expect) {
-        int[] actual = new SumsOfParts(ls).result();
+        int[] actual = new SumsOfParts(ls).solution();
         assertArrayEquals(expect, actual);
     }
 

@@ -14,7 +14,7 @@ public class PasswordMakerTest {
                         true,
                         false,
                         false
-                ).result()
+                ).solution()
         );
     }
 
@@ -26,7 +26,7 @@ public class PasswordMakerTest {
                         false,
                         true,
                         false
-                ).result()
+                ).solution()
         );
     }
 
@@ -38,7 +38,7 @@ public class PasswordMakerTest {
                         false,
                         false,
                         true
-                ).result()
+                ).solution()
         );
     }
 
