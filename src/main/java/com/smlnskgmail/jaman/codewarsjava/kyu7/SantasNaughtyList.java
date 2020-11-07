@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-// www.codewars.com/kata/5a0b4dc2ffe75f72f70000efA
+// https://www.codewars.com/kata/5a0b4dc2ffe75f72f70000ef
 public class SantasNaughtyList {
 
     private final List<String> santasList = new ArrayList<>();
