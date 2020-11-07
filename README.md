@@ -12,7 +12,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 ### 8 kyu
 
-| Name | Link | Path |
+| Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AbbreviateATwoWordName.java) |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/altERnaTIngcAsEALTerNAtiNGCaSe.java) |
@@ -63,7 +63,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 ### 7 kyu
 
-| Name | Link | Path |
+| Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Alphabetical Addition | [Link](https://www.codewars.com/kata/5d50e3914861a500121e1958) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlphabeticalAddition.java) |
 | Alphabet symmetry | [Link](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlphabetSymmetry.java) |
@@ -108,7 +108,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 ### 6 kyu
 
-| Name | Link | Path |
+| Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Change case | [Link](https://www.codewars.com/kata/591cac98a6007e87d900013a) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ChangeCase.java) |
 | Consecutive strings | [Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConsecutiveStrings.java) |
@@ -139,7 +139,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 ### 5 kyu
 
-| Name | Link | Path |
+| Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | int32 to IPv4 | [Link](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/Int32ToIPv4.java) |
 | Merged String Checker | [Link](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/MergedStringChecker.java) |
@@ -149,6 +149,6 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 ### 4 kyu
 
-| Name | Link | Path |
+| Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Bagels | [Link](https://www.codewars.com/kata/54bd6b4c956834c9870001a1) | [Path](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/Bagels.java) |
