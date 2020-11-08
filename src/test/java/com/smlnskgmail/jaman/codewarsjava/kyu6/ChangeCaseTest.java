@@ -1,6 +1,5 @@
 package com.smlnskgmail.jaman.codewarsjava.kyu6;
 
-import com.smlnskgmail.jaman.codewarsjava.kyu6.ChangeCase;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
