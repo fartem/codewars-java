@@ -102,11 +102,11 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Spacify | [Link](https://www.codewars.com/kata/57f8ee485cae443c4d000127) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/Spacify.java) |
 | Square Every Digit | [Link](https://www.codewars.com/kata/546e2562b03326a88e000020) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/SquareEveryDigit.java) |
 | String ends with? | [Link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/StringEndsWith.java) |
+| String Merge! | [Link](https://www.codewars.com/kata/597bb84522bc93b71e00007e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/StringMerge.java) |
 | Sum of Odd Cubed Numbers | [Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/SumOfOddCubedNumbers.java) |
 | Sum of odd numbers | [Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/SumOfOddNumbers.java) |
 | The 12 Days of Christmas | [Link](https://www.codewars.com/kata/57dd3a06eb0537b899000a64) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/The12DaysOfChristmas.java) |
 | Vowel Count | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/VowelCount.java) |
-
 
 ### 6 kyu
 
@@ -154,3 +154,4 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Bagels | [Link](https://www.codewars.com/kata/54bd6b4c956834c9870001a1) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/Bagels.java) |
+| Count ones in a segment | [Link](https://www.codewars.com/kata/596d34df24a04ee1e3000a25) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/CountOnesInASegment.java) |
