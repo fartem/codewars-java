@@ -133,6 +133,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Roman Numerals Encoder | [Link](https://www.codewars.com/kata/51b62bf6a9c58071c600001b) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/RomanNumeralsEncoder.java) |
 | Simple string indices | [Link](https://www.codewars.com/kata/5a24254fe1ce0ec2eb000078) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SimpleStringIndices.java) |
 | Sort the odd | [Link](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SortTheOdd.java) |
+| Stop gninnipS My sdroW! | [Link](https://www.codewars.com/kata/5264d2b162488dc400000001) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/StopGninnipsMySdrow.java) |
 | Sum consecutives | [Link](https://www.codewars.com/kata/55eeddff3f64c954c2000059) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumConsecutives.java) |
 | Sum of Digits / Digital Root | [Link](https://www.codewars.com/kata/541c8630095125aba6000c00) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumOfDigitsDigitalRoot.java) |
 | Sums of Parts | [Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumsOfParts.java) |
@@ -157,3 +158,4 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | --- | --- | --- |
 | Bagels | [Link](https://www.codewars.com/kata/54bd6b4c956834c9870001a1) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/Bagels.java) |
 | Count ones in a segment | [Link](https://www.codewars.com/kata/596d34df24a04ee1e3000a25) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/CountOnesInASegment.java) |
+| Permutations | [Link](https://www.codewars.com/kata/5254ca2719453dcc0b00027d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu4/Permutations.java) |
