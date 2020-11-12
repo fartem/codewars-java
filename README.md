@@ -62,6 +62,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | "this" is a problem | [Link](https://www.codewars.com/kata/547c71fdc5b2b38db1000098) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ThisIsAProblem.java) |
 | Total amount of points | [Link](https://www.codewars.com/kata/5bb904724c47249b10000131) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/TotalAmountOfPoints.java) |
 | Twice as old | [Link](https://www.codewars.com/kata/5b853229cfde412a470000d0) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/TwiceAsOld.java) |
+| Welcome to the City | [Link](https://www.codewars.com/kata/5302d846be2a9189af0001e4) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/WelcomeToTheCity.java) |
 
 ### 7 kyu
 
@@ -137,10 +138,10 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Sum consecutives | [Link](https://www.codewars.com/kata/55eeddff3f64c954c2000059) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumConsecutives.java) |
 | Sum of Digits / Digital Root | [Link](https://www.codewars.com/kata/541c8630095125aba6000c00) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumOfDigitsDigitalRoot.java) |
 | Sums of Parts | [Link](https://www.codewars.com/kata/5ce399e0047a45001c853c2b) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/SumsOfParts.java) |
+| Valid Braces | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidBraces.java) |
 | Valid Phone Number | [Link](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidPhoneNumber.java) |
 | Versions manager | [Link](https://www.codewars.com/kata/5bc7bb444be9774f100000c3) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/VersionsManager.java) |
 | Your order, please | [Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/YourOrderPlease.java) |
-
 
 ### 5 kyu
 
