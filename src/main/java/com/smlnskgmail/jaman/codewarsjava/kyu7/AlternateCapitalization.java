@@ -27,7 +27,7 @@ public class AlternateCapitalization {
                     return value % 2 != 0 ? letter.toUpperCase() : letter;
                 })
                 .collect(Collectors.joining());
-        return new String[] { capitalization, alternateCapitalization };
+        return new String[]{capitalization, alternateCapitalization};
     }
 
 }

@@ -38,7 +38,7 @@ public class GetCharacterFromASCIIValueTest {
         );
         assertEquals(
                 '>',
-                 new GetCharacterFromASCIIValue(62).solution()
+                new GetCharacterFromASCIIValue(62).solution()
         );
         assertEquals(
                 '?',

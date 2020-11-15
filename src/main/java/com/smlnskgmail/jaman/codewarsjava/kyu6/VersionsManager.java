@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 public class VersionsManager {
 
     private final Stack<int[]> memory = new Stack<>();
-    private int[] current = { 0, 0, 1 };
+    private int[] current = {0, 0, 1};
 
     public VersionsManager() {
 
@@ -39,7 +39,7 @@ public class VersionsManager {
     private void update(int i) {
         memory.add(Arrays.copyOf(current, 3));
         current[i] += 1;
-        for (int x=i+1 ; x<3 ; x++) {
+        for (int x = i + 1; x < 3; x++) {
             current[x] = 0;
         }
     }

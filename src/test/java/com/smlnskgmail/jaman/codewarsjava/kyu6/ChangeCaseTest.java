@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class ChangeCaseTest {
 
     @Test
-    public void changeIt(){
+    public void changeIt() {
         assertEquals(
                 "Hello world",
                 new ChangeCase("Hello World").toSentenceCase()

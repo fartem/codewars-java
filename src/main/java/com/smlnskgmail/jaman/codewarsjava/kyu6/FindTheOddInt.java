@@ -18,7 +18,7 @@ public class FindTheOddInt {
         Arrays
                 .stream(input)
                 .forEach(value -> numbers.merge(value, 1, Integer::sum));
-        for (Map.Entry<Integer, Integer> entry: numbers.entrySet()) {
+        for (Map.Entry<Integer, Integer> entry : numbers.entrySet()) {
             if (entry.getValue() % 2 != 0) {
                 return entry.getKey();
             }

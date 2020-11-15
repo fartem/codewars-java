@@ -10,7 +10,7 @@ public class SumWithoutHighestAndLowestNumberTest {
     public void BasicTests() {
         assertEquals(
                 16,
-                new SumWithoutHighestAndLowestNumber(new int[] { 6, 2, 1, 8, 10 }).solution()
+                new SumWithoutHighestAndLowestNumber(new int[]{6, 2, 1, 8, 10}).solution()
         );
     }
 

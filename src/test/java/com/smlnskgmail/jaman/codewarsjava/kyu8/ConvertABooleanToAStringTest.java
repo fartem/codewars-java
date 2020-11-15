@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class ConvertABooleanToAStringTest {
 
     @Test
-    public void testTrue(){
+    public void testTrue() {
         assertEquals(
                 new ConvertABooleanToAString(true).solution(),
                 "true"
@@ -15,7 +15,7 @@ public class ConvertABooleanToAStringTest {
     }
 
     @Test
-    public void testFalse(){
+    public void testFalse() {
         assertEquals(
                 new ConvertABooleanToAString(false).solution(),
                 "false"

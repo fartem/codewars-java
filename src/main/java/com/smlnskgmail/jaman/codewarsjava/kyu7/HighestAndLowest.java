@@ -18,7 +18,7 @@ public class HighestAndLowest {
                 .toArray();
         int minimum = Integer.MAX_VALUE;
         int maximum = Integer.MIN_VALUE;
-        for (int i: parsedNumber) {
+        for (int i : parsedNumber) {
             if (minimum > i) {
                 minimum = i;
             }

@@ -11,7 +11,7 @@ public class PrintingArrayElementsWithCommaDelimitersTest {
         assertEquals(
                 "2,4,5,2",
                 new PrintingArrayElementsWithCommaDelimiters(
-                        new Integer[] { 2, 4, 5, 2 }
+                        new Integer[]{2, 4, 5, 2}
                 ).solution()
         );
     }

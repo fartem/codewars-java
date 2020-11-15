@@ -12,12 +12,12 @@ public class CalculateAverageTest {
     public void testSomething() {
         assertEquals(
                 1,
-                new CalculateAverage(new int[] { 1, 1, 1 }).solution(),
+                new CalculateAverage(new int[]{1, 1, 1}).solution(),
                 DELTA
         );
         assertEquals(
                 2,
-                new CalculateAverage(new int[] { 1, 2, 3 }).solution(),
+                new CalculateAverage(new int[]{1, 2, 3}).solution(),
                 DELTA
         );
     }

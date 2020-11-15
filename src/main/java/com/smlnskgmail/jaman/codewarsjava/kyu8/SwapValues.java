@@ -10,7 +10,7 @@ public class SwapValues {
     }
 
     public void swapValues() {
-        Object[] args = new Object[] { input[0], input[1] };
+        Object[] args = new Object[]{input[0], input[1]};
         Object temp = args[0];
         input[0] = args[1];
         input[1] = temp;

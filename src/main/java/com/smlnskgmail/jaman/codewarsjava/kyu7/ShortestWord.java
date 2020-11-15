@@ -12,7 +12,7 @@ public class ShortestWord {
     public int solution() {
         String[] words = input.split(" ");
         int shortestWord = 0;
-        for (String word: words) {
+        for (String word : words) {
             if (shortestWord == 0 || shortestWord > word.length()) {
                 shortestWord = word.length();
             }

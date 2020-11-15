@@ -17,7 +17,7 @@ public class CountOnesInASegment {
         return countOnes(right).subtract(countOnes(left - 1));
     }
 
-    private BigInteger countOnes(long right){
+    private BigInteger countOnes(long right) {
         if (right == 0) {
             return BigInteger.valueOf(0);
         }

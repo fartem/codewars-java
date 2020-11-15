@@ -4,8 +4,8 @@ package com.smlnskgmail.jaman.codewarsjava.kyu8;
 public class HowDoICompareNumbers {
 
     static final Object[][] specialNumbers = {
-            { 42, "everything" },
-            { 42 * 42, "everything squared" },
+            {42, "everything"},
+            {42 * 42, "everything squared"},
     };
 
     private final Integer input;
@@ -15,7 +15,7 @@ public class HowDoICompareNumbers {
     }
 
     public String solution() {
-        for (Object[] p: specialNumbers) {
+        for (Object[] p : specialNumbers) {
             if (p[0].equals(input)) {
                 return (String) p[1];
             }

@@ -12,17 +12,20 @@ public class AlternateCase {
     }
 
     public String solution() {
-        return input.chars().mapToObj(i -> {
-            char symbol = (char) i;
-            if (!Character.isLetter(symbol)) {
-                return String.valueOf((char) i);
-            }
-            return String.valueOf(
-                    Character.isLowerCase(symbol)
-                            ? Character.toUpperCase(symbol)
-                            : Character.toLowerCase(symbol)
-            );
-        }).collect(Collectors.joining(""));
+        return input
+                .chars()
+                .mapToObj(i -> {
+                    char symbol = (char) i;
+                    if (!Character.isLetter(symbol)) {
+                        return String.valueOf((char) i);
+                    }
+                    return String.valueOf(
+                            Character.isLowerCase(symbol)
+                                    ? Character.toUpperCase(symbol)
+                                    : Character.toLowerCase(symbol)
+                    );
+                })
+                .collect(Collectors.joining(""));
     }
 
 }

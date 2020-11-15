@@ -10,7 +10,7 @@ public class MakeUpperCase {
     }
 
     public String solution() {
-        return  input.toUpperCase();
+        return input.toUpperCase();
     }
 
 }

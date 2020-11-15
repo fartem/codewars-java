@@ -11,28 +11,28 @@ public class MaxDiffEasyTest {
         assertEquals(
                 4,
                 new MaxDiffEasy(
-                        new int[] { 1, 2, 3, 4, 5, 5, 4 }
+                        new int[]{1, 2, 3, 4, 5, 5, 4}
                 ).solution()
         );
         assertEquals(
                 30,
                 new MaxDiffEasy(
-                        new int[] { -4, -5, -3, -1, -31 }
+                        new int[]{-4, -5, -3, -1, -31}
                 ).solution()
         );
         assertEquals(
                 10,
                 new MaxDiffEasy(
-                        new int[] { 1, 2, 3, 4, -5, 5, 4 }
+                        new int[]{1, 2, 3, 4, -5, 5, 4}
                 ).solution()
         );
         assertEquals(
                 0,
-                new MaxDiffEasy(new int[] { 1000000 }).solution()
+                new MaxDiffEasy(new int[]{1000000}).solution()
         );
         assertEquals(
                 0,
-                new MaxDiffEasy(new int[] {}).solution()
+                new MaxDiffEasy(new int[]{}).solution()
         );
     }
 

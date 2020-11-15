@@ -10,7 +10,7 @@ public class SentenceSmashTest {
     public void validate() {
         assertEquals(
                 "Bilal Djaghout",
-                new SentenceSmash(new String[] { "Bilal", "Djaghout" }).solution()
+                new SentenceSmash(new String[]{"Bilal", "Djaghout"}).solution()
         );
     }
 
@@ -18,7 +18,7 @@ public class SentenceSmashTest {
     public void validateEmpty() {
         assertEquals(
                 "",
-                new SentenceSmash(new String[] {}).solution()
+                new SentenceSmash(new String[]{}).solution()
         );
     }
 
@@ -26,7 +26,7 @@ public class SentenceSmashTest {
     public void validateOneWord() {
         assertEquals(
                 "Bilal",
-                new SentenceSmash(new String[] {"Bilal"}).solution()
+                new SentenceSmash(new String[]{"Bilal"}).solution()
         );
     }
 

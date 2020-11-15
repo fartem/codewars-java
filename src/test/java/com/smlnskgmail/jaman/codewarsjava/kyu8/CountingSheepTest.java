@@ -12,7 +12,7 @@ public class CountingSheepTest {
                 "There are 17 sheeps in total",
                 17,
                 new CountingSheep(
-                        new Boolean[] {
+                        new Boolean[]{
                                 true, true, true, false,
                                 true, true, true, true,
                                 true, false, true, false,

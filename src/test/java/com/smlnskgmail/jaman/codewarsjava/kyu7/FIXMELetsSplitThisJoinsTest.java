@@ -11,7 +11,7 @@ public class FIXMELetsSplitThisJoinsTest {
     @Test
     public void example() {
         assertEquals(
-                new String[] {"a", "b", "c"},
+                new String[]{"a", "b", "c"},
                 show(new FIXMELetsSplitThisJoins("a.b.c").solution())
         );
     }

@@ -12,19 +12,19 @@ public class PartsOfAListTest {
     public void test() {
         assertEquals(
                 Arrays.deepToString(
-                        new PartsOfAList(new String[] { "cdIw", "tzIy", "xDu", "rThG" }).solution()
+                        new PartsOfAList(new String[]{"cdIw", "tzIy", "xDu", "rThG"}).solution()
                 ),
                 "[[cdIw, tzIy xDu rThG], [cdIw tzIy, xDu rThG], [cdIw tzIy xDu, rThG]]"
         );
         assertEquals(
                 Arrays.deepToString(
-                        new PartsOfAList(new String[] { "I", "wish", "I", "hadn't", "come" }).solution()
+                        new PartsOfAList(new String[]{"I", "wish", "I", "hadn't", "come"}).solution()
                 ),
                 "[[I, wish I hadn't come], [I wish, I hadn't come], [I wish I, hadn't come], [I wish I hadn't, come]]"
         );
         assertEquals(
                 Arrays.deepToString(
-                        new PartsOfAList(new String[] { "vJQ", "anj", "mQDq", "sOZ" }).solution()
+                        new PartsOfAList(new String[]{"vJQ", "anj", "mQDq", "sOZ"}).solution()
                 ),
                 "[[vJQ, anj mQDq sOZ], [vJQ anj, mQDq sOZ], [vJQ anj mQDq, sOZ]]"
         );

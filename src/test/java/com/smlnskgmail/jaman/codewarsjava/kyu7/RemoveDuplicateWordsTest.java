@@ -7,7 +7,7 @@ import static org.junit.Assert.assertEquals;
 public class RemoveDuplicateWordsTest {
 
     @Test
-    public void basicTests(){
+    public void basicTests() {
         assertEquals(
                 "alpha beta gamma delta",
                 new RemoveDuplicateWords(

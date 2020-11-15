@@ -11,7 +11,7 @@ public class WelcomeToTheCityTest {
         assertEquals(
                 "Hello, John Smith! Welcome to Phoenix, Arizona!",
                 new WelcomeToTheCity(
-                        new String[] { "John", "Smith" },
+                        new String[]{"John", "Smith"},
                         "Phoenix",
                         "Arizona"
                 ).solution()

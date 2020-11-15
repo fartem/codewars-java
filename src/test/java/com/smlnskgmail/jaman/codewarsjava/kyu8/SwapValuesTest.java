@@ -8,7 +8,7 @@ public class SwapValuesTest {
 
     @Test
     public void testSomething() {
-        Integer[] args = new Integer[] { 1, 2 };
+        Integer[] args = new Integer[]{1, 2};
         SwapValues swapValues = new SwapValues(args);
         swapValues.swapValues();
         assertEquals(

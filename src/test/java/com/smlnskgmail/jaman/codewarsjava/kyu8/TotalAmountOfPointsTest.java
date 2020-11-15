@@ -11,31 +11,31 @@ public class TotalAmountOfPointsTest {
         assertEquals(
                 30,
                 new TotalAmountOfPoints(
-                        new String[] { "1:0", "2:0", "3:0", "4:0", "2:1", "3:1", "4:1", "3:2", "4:2", "4:3" }
+                        new String[]{"1:0", "2:0", "3:0", "4:0", "2:1", "3:1", "4:1", "3:2", "4:2", "4:3"}
                 ).solution()
         );
         assertEquals(
                 10,
                 new TotalAmountOfPoints(
-                        new String[] { "1:1", "2:2", "3:3", "4:4", "2:2", "3:3", "4:4", "3:3", "4:4", "4:4" }
+                        new String[]{"1:1", "2:2", "3:3", "4:4", "2:2", "3:3", "4:4", "3:3", "4:4", "4:4"}
                 ).solution()
         );
         assertEquals(
                 0,
                 new TotalAmountOfPoints(
-                        new String[] { "0:1", "0:2", "0:3", "0:4", "1:2", "1:3", "1:4", "2:3", "2:4", "3:4" }
+                        new String[]{"0:1", "0:2", "0:3", "0:4", "1:2", "1:3", "1:4", "2:3", "2:4", "3:4"}
                 ).solution()
         );
         assertEquals(
                 15,
                 new TotalAmountOfPoints(
-                        new String[] { "1:0", "2:0", "3:0", "4:0", "2:1", "1:3", "1:4", "2:3", "2:4", "3:4" }
+                        new String[]{"1:0", "2:0", "3:0", "4:0", "2:1", "1:3", "1:4", "2:3", "2:4", "3:4"}
                 ).solution()
         );
         assertEquals(
                 12,
                 new TotalAmountOfPoints(
-                        new String[] { "1:0", "2:0", "3:0", "4:4", "2:2", "3:3", "1:4", "2:3", "2:4", "3:4" }
+                        new String[]{"1:0", "2:0", "3:0", "4:4", "2:2", "3:3", "1:4", "2:3", "2:4", "3:4"}
                 ).solution()
         );
     }

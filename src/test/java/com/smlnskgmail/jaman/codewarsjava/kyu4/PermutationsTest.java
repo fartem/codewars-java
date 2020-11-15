@@ -15,7 +15,7 @@ public class PermutationsTest {
     public void example1() {
         assertEquals(
                 new ArrayList<>(Collections.singletonList("a")),
-                new Permutations("a")
+                new Permutations("b")
                         .solution()
                         .stream()
                         .sorted()

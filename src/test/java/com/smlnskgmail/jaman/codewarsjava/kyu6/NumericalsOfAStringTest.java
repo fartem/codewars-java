@@ -13,6 +13,7 @@ public class NumericalsOfAStringTest {
                 new NumericalsOfAString("Hello, World!").solution()
         );
     }
+
     @Test
     public void basicTest2() {
         assertEquals(
@@ -20,6 +21,7 @@ public class NumericalsOfAStringTest {
                 new NumericalsOfAString("Hello, World! It's me, JomoPipi!").solution()
         );
     }
+
     @Test
     public void basicTest3() {
         assertEquals(

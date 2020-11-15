@@ -17,7 +17,7 @@ public class FormTheLargest {
                 Arrays.stream(
                         String.valueOf(maxNumber).split("")
                 ).sorted((o1, o2) -> -Long.compare(Long.parseLong(o1), Long.parseLong(o2)))
-                .collect(Collectors.joining())
+                        .collect(Collectors.joining())
         );
     }
 

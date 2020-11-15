@@ -38,7 +38,7 @@ public class VersionsManagerTest {
                     "1.1.0",
                     new VersionsManager("1.1").release()
             );
-        } catch(Exception e) {
+        } catch (Exception e) {
             fail();
         }
     }
@@ -58,7 +58,7 @@ public class VersionsManagerTest {
                     "3.0.0",
                     new VersionsManager("1.2.3").major().major().release()
             );
-        } catch(Exception e) {
+        } catch (Exception e) {
             fail();
         }
     }
@@ -82,7 +82,7 @@ public class VersionsManagerTest {
                     "4.2.0",
                     new VersionsManager("4").minor().minor().release()
             );
-        } catch(Exception e) {
+        } catch (Exception e) {
             fail();
         }
     }
@@ -96,7 +96,7 @@ public class VersionsManagerTest {
                     "1.2.4", new VersionsManager("1.2.3").patch().release());
             assertEquals(
                     "4.0.2", new VersionsManager("4").patch().patch().release());
-        } catch(Exception e) {
+        } catch (Exception e) {
             fail();
         }
     }
@@ -124,7 +124,7 @@ public class VersionsManagerTest {
                     "1.0.0",
                     new VersionsManager().major().patch().rollback().major().rollback().release()
             );
-        } catch(Exception e) {
+        } catch (Exception e) {
             fail();
         }
     }

@@ -22,7 +22,7 @@ public class RowWeights {
                 .filter(i -> i % 2 != 0)
                 .map(i -> weights[i])
                 .sum();
-        return new int[] {
+        return new int[]{
                 firstTeamScores,
                 secondTeamScores
         };

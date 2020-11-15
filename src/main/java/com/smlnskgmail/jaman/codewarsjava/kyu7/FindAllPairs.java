@@ -18,7 +18,7 @@ public class FindAllPairs {
         Map<Integer, Integer> valuesWithCount = new HashMap<>();
         IntStream.of(input)
                 .forEach(i -> valuesWithCount.merge(i, 1, Integer::sum));
-        for (Map.Entry<Integer, Integer> entry: valuesWithCount.entrySet()) {
+        for (Map.Entry<Integer, Integer> entry : valuesWithCount.entrySet()) {
             count += entry.getValue() / 2;
         }
         return count;

@@ -26,7 +26,7 @@ public class CountOfPositivesSumOfNegatives {
         if (positivesCount == 0 && negativesSum == 0) {
             return new int[]{};
         }
-        return new int[] { positivesCount, negativesSum };
+        return new int[]{positivesCount, negativesSum};
     }
 
 }

@@ -15,8 +15,8 @@ public class SumWithoutHighestAndLowestNumber {
         if (input == null || input.length < 2) {
             return 0;
         }
-        final int[] minimumValue = { Integer.MAX_VALUE };
-        final int[] maximumValue = { Integer.MIN_VALUE };
+        final int[] minimumValue = {Integer.MAX_VALUE};
+        final int[] maximumValue = {Integer.MIN_VALUE};
         return Arrays.stream(input).peek(operand -> {
             if (operand > maximumValue[0]) {
                 maximumValue[0] = operand;

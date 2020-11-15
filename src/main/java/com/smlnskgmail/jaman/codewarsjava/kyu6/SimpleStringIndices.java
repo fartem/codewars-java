@@ -16,14 +16,14 @@ public class SimpleStringIndices {
 
     public int solution() {
         int openBrackets = 0;
-        if (!(input.charAt(indexOfStart)== '(')) {
+        if (!(input.charAt(indexOfStart) == '(')) {
             return -1;
         }
         for (int i = indexOfStart; i < input.length(); i++) {
-            if (input.charAt(i) =='(') {
+            if (input.charAt(i) == '(') {
                 openBrackets++;
             }
-            if (input.charAt(i) ==')') {
+            if (input.charAt(i) == ')') {
                 openBrackets--;
             }
             if (openBrackets == 0) {

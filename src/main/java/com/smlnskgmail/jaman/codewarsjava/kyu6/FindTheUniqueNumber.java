@@ -14,12 +14,12 @@ public class FindTheUniqueNumber {
 
     public double solution() {
         Map<Double, Integer> uniqueNumbers = new HashMap<>();
-        for (double number: input) {
+        for (double number : input) {
             uniqueNumbers.merge(number, 1, Integer::sum);
         }
 
         double uniqueNumber = 0.0;
-        for (Map.Entry<Double, Integer> entry: uniqueNumbers.entrySet()) {
+        for (Map.Entry<Double, Integer> entry : uniqueNumbers.entrySet()) {
             if (entry.getValue() == 1) {
                 uniqueNumber = entry.getKey();
             }

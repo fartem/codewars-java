@@ -11,13 +11,13 @@ public class SortAndStarTest {
         assertEquals(
                 "b***i***t***c***o***i***n",
                 new SortAndStar(
-                        new String[] { "bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps" }
+                        new String[]{"bitcoin", "take", "over", "the", "world", "maybe", "who", "knows", "perhaps"}
                 ).solution()
         );
         assertEquals(
                 "a***r***e",
                 new SortAndStar(
-                        new String[] { "turns", "out", "random", "test", "cases", "are", "easier", "than", "writing", "out", "basic", "ones" }
+                        new String[]{"turns", "out", "random", "test", "cases", "are", "easier", "than", "writing", "out", "basic", "ones"}
                 ).solution()
         );
     }

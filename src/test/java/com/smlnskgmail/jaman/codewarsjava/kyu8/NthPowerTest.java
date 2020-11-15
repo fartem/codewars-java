@@ -10,15 +10,15 @@ public class NthPowerTest {
     public void basicTests() {
         assertEquals(
                 -1,
-                new NthPower(new int[] { 1, 2 }, 2).solution()
+                new NthPower(new int[]{1, 2}, 2).solution()
         );
         assertEquals(
                 8,
-                new NthPower(new int[] { 3, 1, 2, 2 }, 3).solution()
+                new NthPower(new int[]{3, 1, 2, 2}, 3).solution()
         );
         assertEquals(
                 4,
-                new NthPower(new int[] { 3, 1, 2 }, 2).solution()
+                new NthPower(new int[]{3, 1, 2}, 2).solution()
         );
     }
 

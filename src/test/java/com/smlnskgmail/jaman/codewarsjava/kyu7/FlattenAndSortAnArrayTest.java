@@ -9,33 +9,33 @@ public class FlattenAndSortAnArrayTest {
     @Test
     public void exampleTest() {
         assertArrayEquals(
-                new int[] {},
+                new int[]{},
                 new FlattenAndSortAnArray(
-                        new int[][] {}
+                        new int[][]{}
                 ).solution()
         );
         assertArrayEquals(
-                new int[] { 1 },
+                new int[]{1},
                 new FlattenAndSortAnArray(
-                        new int[][] { {}, { 1 } }
+                        new int[][]{{}, {1}}
                 ).solution()
         );
         assertArrayEquals(
-                new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 },
+                new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9},
                 new FlattenAndSortAnArray(
-                        new int[][] { { 3, 2, 1 }, { 7, 9, 8 }, { 6, 4, 5 } }
+                        new int[][]{{3, 2, 1}, {7, 9, 8}, {6, 4, 5}}
                 ).solution()
         );
         assertArrayEquals(
-                new int[] { 1, 2, 3, 4, 5, 6, 100 },
+                new int[]{1, 2, 3, 4, 5, 6, 100},
                 new FlattenAndSortAnArray(
-                        new int[][] { { 1, 3, 5 }, { 100 }, { 2, 4, 6 } }
+                        new int[][]{{1, 3, 5}, {100}, {2, 4, 6}}
                 ).solution()
         );
         assertArrayEquals(
-                new int[] { 111, 222, 333, 444, 555, 666, 777, 888, 999 },
+                new int[]{111, 222, 333, 444, 555, 666, 777, 888, 999},
                 new FlattenAndSortAnArray(
-                        new int[][] { { 111, 999 }, { 222 }, { 333 }, { 444 }, { 888 }, { 777 }, { 666 }, { 555 } }
+                        new int[][]{{111, 999}, {222}, {333}, {444}, {888}, {777}, {666}, {555}}
                 ).solution()
         );
     }
