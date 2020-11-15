@@ -118,6 +118,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Backwards Read Primes | [Link](https://www.codewars.com/kata/5539fecef69c483c5a000015) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/BackwardsReadPrimes.java) |
 | Change case | [Link](https://www.codewars.com/kata/591cac98a6007e87d900013a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ChangeCase.java) |
 | Consecutive strings | [Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConsecutiveStrings.java) |
 | Convert string to camel case | [Link](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConvertStringToCamelCase.java) |
