@@ -48,7 +48,9 @@ public class ChangeCase {
                 capitalizeNeeded = false;
             } else if (Character.isAlphabetic(chars[i])) {
                 chars[i] = Character.toLowerCase(chars[i]);
-            } else capitalizeNeeded = !Character.isDigit(chars[i]);
+            } else {
+                capitalizeNeeded = !Character.isDigit(chars[i]);
+            }
         }
         return new String(chars);
     }

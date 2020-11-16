@@ -3,11 +3,11 @@ package com.smlnskgmail.jaman.codewarsjava.kyu8;
 import java.util.stream.Collectors;
 
 // https://www.codewars.com/kata/56efc695740d30f963000557
-public class altERnaTIngcAsEALTerNAtiNGCaSe {
+public class AltERnaTIngcAsEALTerNAtiNGCaSe {
 
     private final String input;
 
-    public altERnaTIngcAsEALTerNAtiNGCaSe(String input) {
+    public AltERnaTIngcAsEALTerNAtiNGCaSe(String input) {
         this.input = input;
     }
 
