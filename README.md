@@ -36,6 +36,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | get character from ASCII Value | [Link](https://www.codewars.com/kata/55ad04714f0b468e8200001c) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/GetCharacterFromASCIIValue.java) |
 | Hex to Decimal | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HexToDecimal.java) |
 | How do I compare numbers? | [Link](https://www.codewars.com/kata/55d8618adfda93c89600012e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HowDoICompareNumbers.java) |
+| Is n divisible by x and y? | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/IsNDivisibleByXAndY.java) |
 | L1: Set Alarm | [Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/L1SetAlarm.java) |
 | Leonardo Dicaprio and Oscars | [Link](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/LeonardoDicaprioAndOscars.java) |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/MakeUpperCase.java) |
@@ -119,6 +120,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Backwards Read Primes | [Link](https://www.codewars.com/kata/5539fecef69c483c5a000015) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/BackwardsReadPrimes.java) |
+| Calculate String Rotation | [Link](https://www.codewars.com/kata/5596f6e9529e9ab6fb000014) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/CalculateStringRotation.java) |
 | Change case | [Link](https://www.codewars.com/kata/591cac98a6007e87d900013a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ChangeCase.java) |
 | Consecutive strings | [Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConsecutiveStrings.java) |
 | Convert string to camel case | [Link](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConvertStringToCamelCase.java) |
