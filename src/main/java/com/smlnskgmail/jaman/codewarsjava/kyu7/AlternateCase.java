@@ -11,6 +11,7 @@ public class AlternateCase {
         this.input = input;
     }
 
+    // CPD-OFF
     public String solution() {
         return input
                 .chars()

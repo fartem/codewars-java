@@ -3,7 +3,10 @@ package com.smlnskgmail.jaman.codewarsjava.kyu7;
 // https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd
 public class GreatestCommonDivisor {
 
+    @SuppressWarnings("checkstyle:memberName")
     private final int x;
+
+    @SuppressWarnings("checkstyle:memberName")
     private final int y;
 
     public GreatestCommonDivisor(int x, int y) {

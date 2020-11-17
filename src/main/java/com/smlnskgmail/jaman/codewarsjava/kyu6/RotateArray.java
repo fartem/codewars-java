@@ -8,6 +8,8 @@ import java.util.List;
 public class RotateArray {
 
     private final Object[] input;
+
+    @SuppressWarnings("checkstyle:memberName")
     private final int n;
 
     public RotateArray(Object[] input, int n) {

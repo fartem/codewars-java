@@ -17,7 +17,20 @@ public class SortAndStarTest {
         assertEquals(
                 "a***r***e",
                 new SortAndStar(
-                        new String[]{"turns", "out", "random", "test", "cases", "are", "easier", "than", "writing", "out", "basic", "ones"}
+                        new String[]{
+                                "turns",
+                                "out",
+                                "random",
+                                "test",
+                                "cases",
+                                "are",
+                                "easier",
+                                "than",
+                                "writing",
+                                "out",
+                                "basic",
+                                "ones"
+                        }
                 ).solution()
         );
     }

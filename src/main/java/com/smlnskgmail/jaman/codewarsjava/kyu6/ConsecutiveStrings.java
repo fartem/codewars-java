@@ -4,6 +4,8 @@ package com.smlnskgmail.jaman.codewarsjava.kyu6;
 public class ConsecutiveStrings {
 
     private final String[] array;
+
+    @SuppressWarnings("checkstyle:memberName")
     private final int k;
 
     public ConsecutiveStrings(String[] array, int k) {

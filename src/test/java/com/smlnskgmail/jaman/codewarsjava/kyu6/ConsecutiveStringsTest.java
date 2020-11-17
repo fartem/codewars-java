@@ -18,7 +18,13 @@ public class ConsecutiveStringsTest {
         );
         assertEquals(
                 new ConsecutiveStrings(
-                        new String[]{"ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"},
+                        new String[]{
+                                "ejjjjmmtthh",
+                                "zxxuueeg",
+                                "aanlljrrrxx",
+                                "dqqqaaabbb",
+                                "oocccffuucccjjjkkkjyyyeehh"
+                        },
                         1
                 ).solution(),
                 "oocccffuucccjjjkkkjyyyeehh"
@@ -32,7 +38,11 @@ public class ConsecutiveStringsTest {
         );
         assertEquals(
                 new ConsecutiveStrings(
-                        new String[]{"itvayloxrp", "wkppqsztdkmvcuwvereiupccauycnjutlv", "vweqilsfytihvrzlaodfixoyxvyuyvgpck"},
+                        new String[]{
+                                "itvayloxrp",
+                                "wkppqsztdkmvcuwvereiupccauycnjutlv",
+                                "vweqilsfytihvrzlaodfixoyxvyuyvgpck"
+                        },
                         2
                 ).solution(),
                 "wkppqsztdkmvcuwvereiupccauycnjutlvvweqilsfytihvrzlaodfixoyxvyuyvgpck"
