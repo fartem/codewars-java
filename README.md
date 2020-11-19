@@ -60,6 +60,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Stringy Strings | [Link](https://www.codewars.com/kata/563b74ddd19a3ad462000054) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/StringyStrings.java) |
 | Subtract the Sum | [Link](https://www.codewars.com/kata/56c5847f27be2c3db20009c3) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SubtractTheSum.java) |
 | Sum Mixed Array | [Link](https://www.codewars.com/kata/57eaeb9578748ff92a000009) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SumMixedArray.java) |
+| Sum of positive| [Link](https://www.codewars.com/kata/5715eaedb436cf5606000381) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SumOfPositive.java) |
 | Sum without highest and lowest number | [Link](https://www.codewars.com/kata/576b93db1129fcf2200001e6) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SumWithoutHighestAndLowestNumber.java) |
 | Swap Values | [Link](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SwapValues.java) |
 | "this" is a problem | [Link](https://www.codewars.com/kata/547c71fdc5b2b38db1000098) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ThisIsAProblem.java) |
@@ -71,6 +72,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| All Inclusive?| [Link](https://www.codewars.com/kata/5700c9acc1555755be00027e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AllInclusive.java) |
 | Alphabetical Addition | [Link](https://www.codewars.com/kata/5d50e3914861a500121e1958) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlphabeticalAddition.java) |
 | Alphabet symmetry | [Link](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlphabetSymmetry.java) |
 | Alternate capitalization | [Link](https://www.codewars.com/kata/59cfc000aeb2844d16000075) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlternateCapitalization.java) |
