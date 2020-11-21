@@ -38,6 +38,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | get character from ASCII Value | [Link](https://www.codewars.com/kata/55ad04714f0b468e8200001c) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/GetCharacterFromASCIIValue.java) |
 | Hex to Decimal | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HexToDecimal.java) |
 | How do I compare numbers? | [Link](https://www.codewars.com/kata/55d8618adfda93c89600012e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HowDoICompareNumbers.java) |
+| Invert value | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/InvertValue.java) |
 | Is n divisible by x and y? | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/IsNDivisibleByXAndY.java) |
 | L1: Set Alarm | [Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/L1SetAlarm.java) |
 | Leonardo Dicaprio and Oscars | [Link](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/LeonardoDicaprioAndOscars.java) |
@@ -156,6 +157,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Valid Braces | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidBraces.java) |
 | Valid Phone Number | [Link](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidPhoneNumber.java) |
 | Versions manager | [Link](https://www.codewars.com/kata/5bc7bb444be9774f100000c3) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/VersionsManager.java) |
+| Write Number in Expanded Form | [Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WriteNumberInExpandedForm.java) |
 | Your order, please | [Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/YourOrderPlease.java) |
 
 ### 5 kyu
