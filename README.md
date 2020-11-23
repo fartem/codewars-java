@@ -128,6 +128,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| A + B == 123 | [Link](https://www.codewars.com/kata/5966a52ab4f24db1800000cc) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/APlusBEqual123.java) |
 | Backwards Read Primes | [Link](https://www.codewars.com/kata/5539fecef69c483c5a000015) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/BackwardsReadPrimes.java) |
 | Calculate String Rotation | [Link](https://www.codewars.com/kata/5596f6e9529e9ab6fb000014) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/CalculateStringRotation.java) |
 | Change case | [Link](https://www.codewars.com/kata/591cac98a6007e87d900013a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ChangeCase.java) |
@@ -139,6 +140,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Equal Sided Of An Array | [Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/EqualSidesOfAnArray.java) |
 | Find the odd int | [Link](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FindTheOddInt.java) |
 | Find the unique number | [Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FindTheUniqueNumber.java) |
+| Format words into a sentence | [Link](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FormatWordsIntoASentence.java) |
 | Highest Scoring Word | [Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/HighestScoringWord.java) |
 | Missing Alphabet | [Link](https://www.codewars.com/kata/5ad1e412cc2be1dbfb000016) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/MissingAlphabet.java) |
 | Multiples of 3 or 5 | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/MultiplesOf3Or5.java) |

@@ -6,7 +6,7 @@ import java.nio.BufferOverflowException;
 import java.util.EmptyStackException;
 import java.util.NoSuchElementException;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.fail;
 
 public class ThrowWithoutThrowingTest {
 
