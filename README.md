@@ -168,11 +168,12 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Human Readable Time | [Link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/HumanReadableTime.java) |
 | int32 to IPv4 | [Link](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/Int32ToIPv4.java) |
+| Longest Common Subsequence | [Link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/LongestCommonSubsequence.java) |
 | Merged String Checker | [Link](https://www.codewars.com/kata/54c9fcad28ec4c6e680011aa) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/MergedStringChecker.java) |
 | Simple Pig Latin | [Link](https://www.codewars.com/kata/520b9d2ad5c005041100000f) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/SimplePigLatin.java) |
 | Sort - one, three, two | [Link](https://www.codewars.com/kata/56f4ff45af5b1f8cd100067d) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/SortOneThreeTwo.java) |
-
 
 ### 4 kyu
 
