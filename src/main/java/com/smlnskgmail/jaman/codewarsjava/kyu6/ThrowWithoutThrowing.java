@@ -64,7 +64,7 @@ public class ThrowWithoutThrowing {
     public static void bufferOverflow() {
         ByteBuffer byteBuffer = ByteBuffer.allocateDirect(10);
         FloatBuffer floatBuffer = byteBuffer.asFloatBuffer();
-        floatBuffer.put(new float[] {1, 0, 0});
+        floatBuffer.put(new float[]{1, 0, 0});
     }
 
     @SuppressWarnings("checkstyle:arrayTypeStyle")

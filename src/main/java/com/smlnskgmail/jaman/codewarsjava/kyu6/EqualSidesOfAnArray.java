@@ -14,7 +14,7 @@ public class EqualSidesOfAnArray {
         int sum = 0;
         int arrayLength = input.length;
 
-        for (int value: input) {
+        for (int value : input) {
             sum += value;
         }
 

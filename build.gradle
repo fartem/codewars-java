@@ -17,7 +17,7 @@ checkstyle {
 }
 
 checkstyleMain {
-    source ='src/main/java'
+    source = 'src/main/java'
 }
 
 cpd {
