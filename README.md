@@ -137,6 +137,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | --- | --- | --- |
 | A + B == 123 | [Link](https://www.codewars.com/kata/5966a52ab4f24db1800000cc) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/APlusBEqual123.java) |
 | Backwards Read Primes | [Link](https://www.codewars.com/kata/5539fecef69c483c5a000015) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/BackwardsReadPrimes.java) |
+| Bit Counting | [Link](https://www.codewars.com/kata/526571aae218b8ee490006f4) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/BitCounting.java) |
 | Calculate String Rotation | [Link](https://www.codewars.com/kata/5596f6e9529e9ab6fb000014) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/CalculateStringRotation.java) |
 | Change case | [Link](https://www.codewars.com/kata/591cac98a6007e87d900013a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ChangeCase.java) |
 | Consecutive strings | [Link](https://www.codewars.com/kata/56a5d994ac971f1ac500003e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConsecutiveStrings.java) |
@@ -169,6 +170,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Valid Braces | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidBraces.java) |
 | Valid Phone Number | [Link](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidPhoneNumber.java) |
 | Versions manager | [Link](https://www.codewars.com/kata/5bc7bb444be9774f100000c3) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/VersionsManager.java) |
+| World Bits War | [Link](https://www.codewars.com/kata/58865bfb41e04464240000b0) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WorldBitsWar.java) |
 | Write Number in Expanded Form | [Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WriteNumberInExpandedForm.java) |
 | Your order, please | [Link](https://www.codewars.com/kata/55c45be3b2079eccff00010f) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/YourOrderPlease.java) |
 
