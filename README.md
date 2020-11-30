@@ -24,6 +24,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CenturyFromYear.java) |
 | Color Ghost | [Link](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ColorGhost.java) |
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertABooleanToAString.java) |
+| Convert a String to a Number | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertAStringToANumber.java) |
 | Convert to Binary | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertToBinary.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountingSheep.java) |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOfPositivesSumOfNegatives.java) |
@@ -178,6 +179,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
+| Count IP Addresses | [Link](https://www.codewars.com/kata/526989a41034285187000de4) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/CountIPAddresses.java) |
 | Human Readable Time | [Link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/HumanReadableTime.java) |
 | int32 to IPv4 | [Link](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/Int32ToIPv4.java) |
 | Longest Common Subsequence | [Link](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [Link](https://github.com/fartem/codewars-java/blob/master/src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu5/LongestCommonSubsequence.java) |
