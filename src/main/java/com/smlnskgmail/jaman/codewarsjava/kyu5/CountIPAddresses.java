@@ -17,7 +17,7 @@ public class CountIPAddresses {
 
     private long convertToLong(String ip) {
         long res = 0;
-        for (String s : ip.split("[.]") ) {
+        for (String s : ip.split("[.]")) {
             res = res * 256 + Long.parseLong(s);
         }
         return res;
