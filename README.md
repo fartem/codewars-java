@@ -24,6 +24,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Century From Year | [Link](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CenturyFromYear.java) |
 | Color Ghost | [Link](https://www.codewars.com/kata/53f1015fa9fe02cbda00111a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ColorGhost.java) |
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertABooleanToAString.java) |
+| Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertANumberToAString.java) |
 | Convert a String to a Number | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertAStringToANumber.java) |
 | Convert to Binary | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertToBinary.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountingSheep.java) |
@@ -61,6 +62,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Reversed Strings | [Link](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ReversedStrings.java) |
 | Reversed Words | [Link](https://www.codewars.com/kata/51c8991dee245d7ddf00000e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ReversedWords.java) |
 | Sentence Smash | [Link](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SentenceSmash.java) |
+| Simple multiplication | [Link](https://www.codewars.com/kata/583710ccaa6717322c000105) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SimpleMultiplication.java) |
 | Sort and Star | [Link](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SortAndStar.java) |
 | Sort My Textbooks | [Link](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SortMyTextbooks.java) |
 | Square(n) Sum | [Link](https://www.codewars.com/kata/515e271a311df0350d00000f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/SquareNSum.java) |
