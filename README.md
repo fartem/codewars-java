@@ -26,6 +26,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertABooleanToAString.java) |
 | Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertANumberToAString.java) |
 | Convert a String to a Number | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertAStringToANumber.java) |
+| Convert number to reversed array of digits | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertNumberToReversedArrayOfDigits.java) |
 | Convert to Binary | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertToBinary.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountingSheep.java) |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOfPositivesSumOfNegatives.java) |
@@ -176,6 +177,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Valid Braces | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidBraces.java) |
 | Valid Phone Number | [Link](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidPhoneNumber.java) |
 | Versions manager | [Link](https://www.codewars.com/kata/5bc7bb444be9774f100000c3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/VersionsManager.java) |
+| Who likes it? | [Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WhoLikesIt.java) |
 | Who won the election | [Link](https://www.codewars.com/kata/554910d77a3582bbe300009c) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WhoWonTheElection.java) |
 | World Bits War | [Link](https://www.codewars.com/kata/58865bfb41e04464240000b0) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WorldBitsWar.java) |
 | Write Number in Expanded Form | [Link](https://www.codewars.com/kata/5842df8ccbd22792a4000245) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WriteNumberInExpandedForm.java) |
