@@ -15,6 +15,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Name | Link to Codewars | Link to solution |
 | --- | --- | --- |
 | Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AbbreviateATwoWordName.java) |
+| Age Range Compatibility Equation | [Link](https://www.codewars.com/kata/5803956ddb07c5c74200144e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AgeRangeCompatibilityEquation.java) |
 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | [Link](https://www.codewars.com/kata/56efc695740d30f963000557) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AltERnaTIngcAsEALTerNAtiNGCaSe.java) |
 | A Needle in the Haystack | [Link](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ANeedleInTheHaystack.java) |
 | Array plus array | [Link](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ArrayPlusArray.java) |
@@ -177,6 +178,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Valid Braces | [Link](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidBraces.java) |
 | Valid Phone Number | [Link](https://www.codewars.com/kata/525f47c79f2f25a4db000025) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ValidPhoneNumber.java) |
 | Versions manager | [Link](https://www.codewars.com/kata/5bc7bb444be9774f100000c3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/VersionsManager.java) |
+| What is your country's currency symbol? | [Link](https://www.codewars.com/kata/5957996dbe7b4fef30000061) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WhatIsYourCountrysCurrencySymbol.java) |
 | Who likes it? | [Link](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WhoLikesIt.java) |
 | Who won the election | [Link](https://www.codewars.com/kata/554910d77a3582bbe300009c) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WhoWonTheElection.java) |
 | World Bits War | [Link](https://www.codewars.com/kata/58865bfb41e04464240000b0) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/WorldBitsWar.java) |
