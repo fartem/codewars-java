@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ master ]
 
-end:
+env:
   GRADLE_OPTS: -Dorg.gradle.daemon=false
 
 jobs:
