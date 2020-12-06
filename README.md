@@ -27,6 +27,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Convert a Boolean to a String | [Link](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertABooleanToAString.java) |
 | Convert a Number to a String! | [Link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertANumberToAString.java) |
 | Convert a String to a Number | [Link](https://www.codewars.com/kata/544675c6f971f7399a000e79) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertAStringToANumber.java) |
+| Convert boolean values to strings 'Yes' or 'No'. | [Link](https://www.codewars.com/kata/53369039d7ab3ac506000467) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertBooleanValuesToStringsYesOrNo.java) |
 | Convert number to reversed array of digits | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertNumberToReversedArrayOfDigits.java) |
 | Convert to Binary | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertToBinary.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountingSheep.java) |
@@ -46,6 +47,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | How do I compare numbers? | [Link](https://www.codewars.com/kata/55d8618adfda93c89600012e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HowDoICompareNumbers.java) |
 | Invert value | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/InvertValue.java) |
 | Is n divisible by x and y? | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/IsNDivisibleByXAndY.java) |
+| Jenny's secret message | [Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/JennysSecretMessage.java) |
 | L1: Set Alarm | [Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/L1SetAlarm.java) |
 | Leonardo Dicaprio and Oscars | [Link](https://www.codewars.com/kata/56d49587df52101de70011e4) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/LeonardoDicaprioAndOscars.java) |
 | MakeUpperCase | [Link](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/MakeUpperCase.java) |
