@@ -46,6 +46,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Hex to Decimal | [Link](https://www.codewars.com/kata/57a4d500e298a7952100035d) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HexToDecimal.java) |
 | How do I compare numbers? | [Link](https://www.codewars.com/kata/55d8618adfda93c89600012e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/HowDoICompareNumbers.java) |
 | Invert value | [Link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/InvertValue.java) |
+| Is it a number? | [Link](https://www.codewars.com/kata/57126304cdbf63c6770012bd) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/IsItANumber.java) |
 | Is n divisible by x and y? | [Link](https://www.codewars.com/kata/5545f109004975ea66000086) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/IsNDivisibleByXAndY.java) |
 | Jenny's secret message | [Link](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/JennysSecretMessage.java) |
 | L1: Set Alarm | [Link](https://www.codewars.com/kata/568dcc3c7f12767a62000038) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/L1SetAlarm.java) |
@@ -153,6 +154,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Convert string to camel case | [Link](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/ConvertStringToCamelCase.java) |
 | Count the smiley faces! | [Link](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/CountTheSmileyFaces.java) |
 | Create Phone Number | [Link](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/CreatePhoneNumber.java) |
+| Dashatize it | [Link](https://www.codewars.com/kata/58223370aef9fc03fd000071) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/DashatizeIt.java) |
 | Data Reverse | [Link](https://www.codewars.com/kata/569d488d61b812a0f7000015) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/DataReverse.java) |
 | Detect Pangram | [Link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/DetectPangram.java) |
 | Equal Sided Of An Array | [Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/EqualSidesOfAnArray.java) |
