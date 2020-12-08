@@ -31,6 +31,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Convert number to reversed array of digits | [Link](https://www.codewars.com/kata/5583090cbe83f4fd8c000051) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertNumberToReversedArrayOfDigits.java) |
 | Convert to Binary | [Link](https://www.codewars.com/kata/59fca81a5712f9fa4700159a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ConvertToBinary.java) |
 | Counting sheep... | [Link](https://www.codewars.com/kata/54edbc7200b811e956000556) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountingSheep.java) |
+| Count Odd Numbers below n | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOddNumbersBelowN.java) |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOfPositivesSumOfNegatives.java) |
 | Count the Monkeys! | [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountTheMonkeys.java) |
 | Even or Odd | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/EvenOrOdd.java) |
@@ -114,6 +115,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Insert dashes | [Link](https://www.codewars.com/kata/55960bbb182094bc4800007b) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/InsertDashes.java) |
 | Inspiring Strings | [Link](https://www.codewars.com/kata/5939ab6eed348a945f0007b2) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/InspiringStrings.java) |
 | Is valid identifier? | [Link](https://www.codewars.com/kata/563a8656d52a79f06c00001f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/IsValidIdentifier.java) |
+| Last | [Link](https://www.codewars.com/kata/541629460b198da04e000bb9) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/Last.java) |
 | Lunar Mathematics: Addition | [Link](https://www.codewars.com/kata/5c4b5f06b1fd9b3fec8cb03e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/LunarMathematicsAddition.java) |
 | Make a function that does arithmetic! | [Link](https://www.codewars.com/kata/583f158ea20cfcbeb400000a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/MakeAFunctionThatDoesArithmetic.java) |
 | max diff - easy | [Link](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/MaxDiffEasy.java) |
