@@ -112,6 +112,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Greatest common divisor | [Link](https://www.codewars.com/kata/5500d54c2ebe0a8e8a0003fd) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/GreatestCommonDivisor.java) |
 | Highest and Lowest | [Link](https://www.codewars.com/kata/554b4ac871d6813a03000035) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/HighestAndLowest.java) |
 | How many arguments | [Link](https://www.codewars.com/kata/5c44b0b200ce187106452139) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/HowManyArguments.java) |
+| How many times does it contain? | [Link](https://www.codewars.com/kata/584466950d3bedb9b300001f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/HowManyTimesDoesItContain.java) |
 | Insert dashes | [Link](https://www.codewars.com/kata/55960bbb182094bc4800007b) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/InsertDashes.java) |
 | Inspiring Strings | [Link](https://www.codewars.com/kata/5939ab6eed348a945f0007b2) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/InspiringStrings.java) |
 | Is valid identifier? | [Link](https://www.codewars.com/kata/563a8656d52a79f06c00001f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/IsValidIdentifier.java) |
@@ -121,6 +122,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | max diff - easy | [Link](https://www.codewars.com/kata/588a3c3ef0fbc9c8e1000095) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/MaxDiffEasy.java) |
 | Maximum Multiple | [Link](https://www.codewars.com/kata/5aba780a6a176b029800041c) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/MaximumMultiple.java) |
 | Maximum Product | [Link](https://www.codewars.com/kata/5a4138acf28b82aa43000117) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/MaximumProduct.java) |
+| Odd-Even String Sort | [Link](https://www.codewars.com/kata/580755730b5a77650500010c) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/OddEvenStringSort.java) |
 | Ordering the words! | [Link](https://www.codewars.com/kata/55d7e5aa7b619a86ed000070) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/OrderingTheWords.java) |
 | Overflowing with joy | [Link](https://www.codewars.com/kata/55186c0f4149dd08a7000006) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/OverflowingWithJoy.java) |
 | Parts of a list | [Link](https://www.codewars.com/kata/56f3a1e899b386da78000732) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/PartsOfAList.java) |
