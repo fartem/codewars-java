@@ -99,6 +99,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/Covfefe.java) |
 | C. Wars | [Link](https://www.codewars.com/kata/55968ab32cf633c3f8000008) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/CWars.java) |
 | Descending Order | [Link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/DescendingOrder.java) |
+| Difference between two collections | [Link](https://www.codewars.com/kata/594093784aafb857f0000122) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/DifferenceBetweenTwoCollections.java) |
 | FIXME: Get Full Name | [Link](https://www.codewars.com/kata/597c684822bc9388f600010f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/FIXMEGetFullName.java) |
 | FIXME: Let's split this joint | [Link](https://www.codewars.com/kata/5a53f300d8e145df7f000497) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/FIXMELetsSplitThisJoins.java) |
 | Find all pairs | [Link](https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/FindAllPairs.java) |
@@ -166,6 +167,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Find the unique number | [Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FindTheUniqueNumber.java) |
 | Format words into a sentence | [Link](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FormatWordsIntoASentence.java) |
 | Highest Scoring Word | [Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/HighestScoringWord.java) |
+| Is a number prime? | [Link](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/IsANumberPrime.java) |
 | Jurassic Word | [Link](https://www.codewars.com/kata/55709dc15ebd283cc9000007) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/JurassicWord.java) |
 | Missing Alphabet | [Link](https://www.codewars.com/kata/5ad1e412cc2be1dbfb000016) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/MissingAlphabet.java) |
 | Multiples of 3 or 5 | [Link](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/MultiplesOf3Or5.java) |
