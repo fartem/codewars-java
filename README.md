@@ -34,6 +34,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Count Odd Numbers below n | [Link](https://www.codewars.com/kata/59342039eb450e39970000a6) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOddNumbersBelowN.java) |
 | Count of positives / sum of negatives | [Link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountOfPositivesSumOfNegatives.java) |
 | Count the Monkeys! | [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/CountTheMonkeys.java) |
+| DNA to RNA Conversion | [Link](https://www.codewars.com/kata/5556282156230d0e5e000089) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/DNAToRNAConversion.java) |
 | Even or Odd | [Link](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/EvenOrOdd.java) |
 | Expressions Matter | [Link](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/ExpressionsMatter.java) |
 | Fake Binary | [Link](https://www.codewars.com/kata/57eae65a4321032ce000002d) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/FakeBinary.java) |
@@ -166,6 +167,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Find the odd int | [Link](https://www.codewars.com/kata/54da5a58ea159efa38000836) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FindTheOddInt.java) |
 | Find the unique number | [Link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FindTheUniqueNumber.java) |
 | Format words into a sentence | [Link](https://www.codewars.com/kata/51689e27fe9a00b126000004) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/FormatWordsIntoASentence.java) |
+| Hex class | [Link](https://www.codewars.com/kata/5483366098aa442def0009af) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/HexClass.java) |
 | Highest Scoring Word | [Link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/HighestScoringWord.java) |
 | Is a number prime? | [Link](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/IsANumberPrime.java) |
 | Jurassic Word | [Link](https://www.codewars.com/kata/55709dc15ebd283cc9000007) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu6/JurassicWord.java) |
