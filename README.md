@@ -96,6 +96,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Alternate case | [Link](https://www.codewars.com/kata/57a62154cf1fa5b25200031e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlternateCase.java) |
 | Ch4113ng3 | [Link](https://www.codewars.com/kata/59e9f404fc3c49ab24000112) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/Ch4113ng3.java) |
 | Changing letters | [Link](https://www.codewars.com/kata/5831c204a31721e2ae000294) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/ChangingLetters.java) |
+| Closest to Zero | [Link](https://www.codewars.com/kata/59887207635904314100007b) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/ClosestToZero.java) |
 | Count the Characters | [Link](https://www.codewars.com/kata/577ad961ae2807182f000c29) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/CountTheCharacters.java) |
 | Covfefe | [Link](https://www.codewars.com/kata/592fd8f752ee71ac7e00008a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/Covfefe.java) |
 | C. Wars | [Link](https://www.codewars.com/kata/55968ab32cf633c3f8000008) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/CWars.java) |
@@ -144,6 +145,7 @@ Profile on Codewars: [fartem](https://www.codewars.com/users/fartem).
 | Sum of Odd Cubed Numbers | [Link](https://www.codewars.com/kata/580dda86c40fa6c45f00028a) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/SumOfOddCubedNumbers.java) |
 | Sum of odd numbers | [Link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/SumOfOddNumbers.java) |
 | The 12 Days of Christmas | [Link](https://www.codewars.com/kata/57dd3a06eb0537b899000a64) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/The12DaysOfChristmas.java) |
+| The Highest profit wins! | [Link](https://www.codewars.com/kata/559590633066759614000063) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/TheHighestProfitWins.java) |
 | Two to One | [Link](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/TwoToOne.java) |
 | Vowel Count | [Link](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/VowelCount.java) |
 
