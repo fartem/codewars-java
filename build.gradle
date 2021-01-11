@@ -5,12 +5,21 @@ plugins {
 }
 
 checkstyle {
-    toolVersion '8.29'
+    toolVersion '8.38'
     ignoreFailures false
     showViolations true
-    config project.resources.text.fromUri(
-            'https://raw.githubusercontent.com/fartem/repository-rules/master/rules/java/checkstyle/checkstyle.xml'
-    )
+
+    def checkstyleConfigPath = "$rootDir/checkstyle.xml"
+    def checkstyleConfig = new File(checkstyleConfigPath)
+    new URL(
+            "https://raw.githubusercontent.com/fartem/repository-rules/master/rules/java/checkstyle-custom/checkstyle.xml"
+    ).withInputStream {
+        i -> checkstyleConfig.withOutputStream {
+            it << i
+        }
+    }
+
+    configFile file(checkstyleConfigPath)
 }
 
 checkstyleMain {
@@ -27,7 +36,7 @@ repositories {
 }
 
 dependencies {
-//    checkstyle 'com.github.fartem:checkstyle-checks-java:master'
+    checkstyle 'com.github.fartem:checkstyle-checks-java:master'
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
