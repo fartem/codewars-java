@@ -9,7 +9,6 @@ public class CountingSheepTest {
     @Test
     public void test() {
         assertEquals(
-                "There are 17 sheeps in total",
                 17,
                 new CountingSheep(
                         new Boolean[]{
