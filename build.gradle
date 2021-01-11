@@ -4,9 +4,6 @@ plugins {
     id 'de.aaschmid.cpd' version '3.1'
 }
 
-group 'org.example'
-version '1.0-SNAPSHOT'
-
 checkstyle {
     toolVersion '8.38'
     ignoreFailures false
