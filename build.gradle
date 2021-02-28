@@ -38,7 +38,7 @@ repositories {
 }
 
 dependencies {
-    checkstyle 'com.github.fartem:checkstyle-checks-java:master'
+    checkstyle 'com.github.fartem:checkstyle-checks-java:1.1.0'
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
